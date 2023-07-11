@@ -11,7 +11,7 @@ User Profiles: Users can create profiles.
 App Preview - 
 | Demo pic 1               | Demo pic 2             |
 | ---------------------- | ---------------------- |
-| ![cat](images/img1.png) | ![dog](images/img2.png) |
+| ![cat](images/img1.jpg) | ![dog](images/img2.jpg) |
 
 
 
