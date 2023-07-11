@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157869597604",
+    "project_id": "flash-chat-bfa83",
+    "storage_bucket": "flash-chat-bfa83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157869597604:android:768daf1ca6a02033215731",
+        "android_client_info": {
+          "package_name": "com.nakul.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157869597604-fm3eded21gu97do2q78934bnvd98hst4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTcuJRwiIiz8vcEdMM6jusyvXXYBSWj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157869597604-fm3eded21gu97do2q78934bnvd98hst4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
