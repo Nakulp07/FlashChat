@@ -9,8 +9,9 @@ Real-time Messaging: Utilizing Firebase Cloud Firestore, the app allows users to
 User Profiles: Users can create profiles.
 
 App Preview - 
-| Demo 1     https://github.com/Nakulp07/FlashChat/assets/100123771/7b1bca0b-2323-4152-9ab8-facd9a3da88     | Demo 2  https://github.com/Nakulp07/FlashChat/assets/100123771/5044e7c5-8206-4ff6-97f0-8ffd8b137ad2 |
-| ---------------------------- | ---------------------------- |
-| ![Demo 1](images/Demo 1.mp4) | ![Demo 2](images/Demo 2.mp4) |
+| Demo pic 1               | Demo pic 2             |
+| ---------------------- | ---------------------- |
+| ![cat](images/img1.png) | ![dog](images/img2.png) |
+
 
 
